@@ -1,8 +1,8 @@
 
-    "name": "erfan Web Pair",
+    "name": "dua Web Pair",
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/r2ncqh",
-    "repository": "https://github.com/saasipro/Erfan-pair",
+    "repository": "https://github.com/policeduafatima/Dua-pair",
     "keywords": ["DUA "],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
